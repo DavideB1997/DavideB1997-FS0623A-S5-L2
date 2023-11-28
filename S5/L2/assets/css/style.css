@@ -1,0 +1,20 @@
+.text-gray{
+  color: gray;
+}
+
+.w-66{
+  width: 66% !important;
+  height: auto;
+}
+
+.w-33{
+  width: 33%;
+}
+
+.text-monospace{
+  font-family: monospace;
+}
+
+.border-gray{
+  border: 1px solid gray;
+}
